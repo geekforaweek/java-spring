@@ -1,1 +1,7 @@
 Test git quick start demo
+
+command
+git add <file_name>
+git commit -m <commit_message>
+git status (check status git)
+git push origin master (commit to remote repository on github)
